@@ -1,0 +1,34 @@
+{
+  "manifest_version": "1.0",
+  "org": "networkx",
+  "repo": "networkx.github.io",
+  "versions": [
+    {
+      "commit": "61e6b94222e7d2ee3faa04552a79eb9b1cc1b7c2",
+      "parsed_at": "2026-10-21T03:09:18.214425+00:00",
+      "filetree": "filetree/61e6b94222e7d2ee3faa04552a79eb9b1cc1b7c2.nq.gz",
+      "blobs": [
+        "blob/e15812051ede887d5638b08472ec4660a78fc27a.nq.gz",
+        "blob/bae50ba2a8d614394b328d3f594e813976f87751.nq.gz",
+        "blob/a858a410e4faa62ce324d814e4b816fff83a6fb3.nq.gz",
+        "blob/4e5626a2db8c34d7ff8c6ce95b669727cbbf4df9.nq.gz",
+        "blob/5b3ebc5789c22327c45ef6906c7ee3394a774702.nq.gz",
+        "blob/f9f609622826ca055977013224b11a0508904f93.nq.gz",
+        "blob/01192852b5c92c13a1cb27c0d2f84aee037691bc.nq.gz",
+        "blob/2fa8c97fe42aebc1d50251eca054fdc6b40ed084.nq.gz",
+        "blob/df99fd399c65f10fa72d12c98890030d1b439ac9.nq.gz",
+        "blob/76f75f986e9151cbb2a5a134368a94ec94ad5102.nq.gz",
+        "blob/e6128ab2feecddf286db30dd4c9e9c198c796b9f.nq.gz",
+        "blob/5389d1225e80dc85683a8612a23bf74affc27399.nq.gz",
+        "blob/7223acc59557bc5e0d52522f99fc2769cd29c47b.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/e64dc8ebaf82c2edc21d1582dac41285f54fddda.nq.gz",
+        "blob/35906b9293f7ae55f14a94d7d97d5d5df195550d.nq.gz",
+        "blob/210ec41998188ecd12366934372c4469106017cd.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz"
+}
